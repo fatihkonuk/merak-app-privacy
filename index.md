@@ -5,7 +5,7 @@ permalink: /
 
 # Merak gizlilik politikası
 
-Yürürlük tarihi: 21 Ekim 2026
+Yürürlük tarihi: 29 Ekim 2026
 
 [English version below](#merak-privacy-policy)
 
@@ -23,9 +23,9 @@ Ses veya video kaydını seçersen Merak kamera ya da mikrofon izni ister. Kayı
 
 ## Reklamlar
 
-Android sürümü, tamamlanan bir çalışmanın ardından Google AdMob üzerinden geçiş reklamı gösterir. Bunun için Google; reklam kimliği, IP adresi ve bundan çıkarılan yaklaşık konum, cihaz ve uygulama bilgileri, reklam etkileşimleri ile çökme ve performans bilgileri gibi verileri toplayabilir. Bu veriler reklam gösterimi, ölçüm, analiz ve dolandırıcılığın önlenmesi amacıyla Google tarafından işlenir ve Türkiye dışındaki sunuculara aktarılabilir. Ayrıntılar: [Google'ın iş ortağı sitelerindeki veri kullanımı](https://policies.google.com/technologies/partner-sites).
+Android ve iOS sürümleri, tamamlanan bir çalışmanın ardından Google AdMob üzerinden geçiş reklamı gösterir. Bunun için Google; reklam kimliği, IP adresi ve bundan çıkarılan yaklaşık konum, cihaz ve uygulama bilgileri, reklam etkileşimleri ile çökme ve performans bilgileri gibi verileri toplayabilir. Bu veriler reklam gösterimi, ölçüm, analiz ve dolandırıcılığın önlenmesi amacıyla Google tarafından işlenir ve Türkiye dışındaki sunuculara aktarılabilir. Ayrıntılar: [Google'ın iş ortağı sitelerindeki veri kullanımı](https://policies.google.com/technologies/partner-sites).
 
-Reklam kimliğini cihazının Ayarlar > Google > Reklamlar bölümünden sıfırlayabilir veya silebilirsin. Reklamsız kullanımı satın aldığında reklam yüklenmez.
+Android'de reklam kimliğini cihazının Ayarlar > Google > Reklamlar bölümünden sıfırlayabilir veya silebilirsin. iOS'ta Merak, reklam kimliğine erişmeden önce Apple'ın izleme iznini (App Tracking Transparency) ister; izin vermezsen reklamlar bu kimlik kullanılmadan gösterilir. Seçimini Ayarlar > Gizlilik ve Güvenlik > İzleme bölümünden değiştirebilirsin. Reklamsız kullanımı satın aldığında reklam yüklenmez.
 
 ## Avrupa'daki kullanıcılar
 
@@ -33,7 +33,7 @@ Avrupa Ekonomik Alanı, Birleşik Krallık veya İsviçre'den kullanıyorsan rek
 
 ## Satın alma
 
-Reklamsız kullanım satın alımı Android sürümünde Google Play tarafından işlenir. iOS sürümünde reklam ve satın alma yoktur. Ödeme bilgileri Merak tarafından görülmez ya da saklanmaz.
+Reklamsız kullanım satın alımı Android sürümünde Google Play, iOS sürümünde App Store tarafından işlenir. Ödeme bilgileri Merak tarafından görülmez ya da saklanmaz.
 
 ## Dış bağlantılar
 
@@ -55,7 +55,7 @@ Bu metin uygulamanın veri işleme biçimi değiştiğinde güncellenir. Güncel
 
 # Merak privacy policy
 
-Effective date: October 21, 2026
+Effective date: October 29, 2026
 
 ## Developer and contact
 
@@ -71,9 +71,9 @@ If you choose audio or video recording, Merak requests camera or microphone acce
 
 ## Ads
 
-The Android app shows a Google AdMob interstitial after a completed study session. To do this, Google may collect data such as the advertising ID, IP address and the approximate location derived from it, device and app information, ad interactions, and crash and performance information. Google processes this data for ad delivery, measurement, analytics, and fraud prevention, and it may be transferred to servers outside your country. Details: [How Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites).
+The Android and iOS apps show a Google AdMob interstitial after a completed study session. To do this, Google may collect data such as the advertising ID, IP address and the approximate location derived from it, device and app information, ad interactions, and crash and performance information. Google processes this data for ad delivery, measurement, analytics, and fraud prevention, and it may be transferred to servers outside your country. Details: [How Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites).
 
-You can reset or delete your advertising ID under Settings > Google > Ads on your device. After an ad-free purchase, ads are no longer loaded.
+On Android, you can reset or delete your advertising ID under Settings > Google > Ads. On iOS, Merak asks for Apple's tracking permission (App Tracking Transparency) before accessing the advertising identifier; if you decline, ads are shown without it. You can change your choice under Settings > Privacy & Security > Tracking. After an ad-free purchase, ads are no longer loaded.
 
 ## Users in Europe
 
@@ -81,7 +81,7 @@ If you use Merak from the European Economic Area, the United Kingdom, or Switzer
 
 ## Purchases
 
-On Android, the ad-free purchase is processed by Google Play. The iOS app has no ads or purchases. Merak does not see or store payment details.
+On Android, the ad-free purchase is processed by Google Play; on iOS, it is processed by the App Store. Merak does not see or store payment details.
 
 ## External links
 
